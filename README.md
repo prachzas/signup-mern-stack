@@ -1,1 +1,1 @@
-# BASIC SIGNUP-MERN-STACK
+## Registration with MERN stack
