@@ -3,10 +3,10 @@
 User Registration functionality with using React, NodeJs, ExpressJs, Bcrypt, And MongoDB
 ### This project uses the following technologies:
 
-React for frontend
-Express and Node for the backend
-MongoDB for the database
-Bcrypt for encrypt password
+* React for frontend
+* Express and Node for the backend
+* MongoDB for the database
+* Bcrypt for encrypt password
 
 # Quick Start
 // Install dependencies for server
